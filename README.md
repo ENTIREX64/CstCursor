@@ -22,7 +22,7 @@ Thanks a lot!<br><br></p>
 </p>
 
 <h1>Running this project</h1>
-<p>Most likely, this link was shared to you by someone, otherwise, <a href ="https://entirex64.github.io/customcursor/"> Click here.</a></p>
+<p>Most likely, this link was shared to you by someone, otherwise, <a href ="https://entirex64.github.io/CstCursor/"> Click here.</a></p>
 <h1>Technologies Used</h1>
 <ul>
   <li>
