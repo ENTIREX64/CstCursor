@@ -41,6 +41,8 @@ Thanks a lot!<br><br></p>
     <a href="https://code.visualstudio.com/">Visual Studio Code</a> for being an awesome text-editor 
   </li>
   <li>
+    <a href="stackoverflow.com">StackOverflow<a>, for helping with some of the HTML and CSS
+  <li>
     <b>You</b>, for visiting this project
   </li>
 </ul>
