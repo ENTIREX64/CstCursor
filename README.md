@@ -18,4 +18,4 @@ This is a small project, showcasing a cool cursor I made.
 - StackOverflow: we all use it
 - VScode: its the best
 - And you (💖) too
-- [TheAtom06]((https://github.com/TheAtom06)https://github.com/TheAtom06), for polishing this README
+- [TheAtom06](https://github.com/TheAtom06), for polishing this README
