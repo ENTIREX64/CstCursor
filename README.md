@@ -2,7 +2,7 @@
 It seems to come stubbled upon my little project...
 
 ## Introduction and Features
-this is a small project, showcasing a cool custom cursor I made.  
+This is a small project, showcasing a cool cursor I made.  
 - It's just a simpler custom cursor
 - It becomes bigger and inverts the color of the text when it hovers over the text
 
@@ -18,3 +18,4 @@ this is a small project, showcasing a cool custom cursor I made.
 - StackOverflow: we all use it
 - VScode: its the best
 - And you (💖) too
+- [TheAtom06]((https://github.com/TheAtom06)https://github.com/TheAtom06), for polishing this README
